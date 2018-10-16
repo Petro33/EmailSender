@@ -1,0 +1,12 @@
+
+Refactoring code from script_old.php to script.php
+
+EmailSenderProgram is an application that sends mail to customers.
+
+For add more email-types create your class SendToYourEmailType with extend abstract class SendEmail
+
+About old code:
+- incomprehensible variables
+- huge methods
+- unreadable Code
+- cannot be expanded
